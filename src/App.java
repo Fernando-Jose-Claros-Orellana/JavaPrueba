@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) throws Exception {
      leerArchivo("datos.csv");
+
     }
 
     static void leerArchivo(String ruta) {
